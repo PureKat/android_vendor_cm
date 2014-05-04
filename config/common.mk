@@ -92,6 +92,10 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
     vendor/cm/prebuilt/common/bin/sysinit:system/bin/sysinit
 
+# V6 Tweaks
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/xbin/v6:system/xbin/v6
+
 # userinit support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/90userinit:system/etc/init.d/90userinit
@@ -134,7 +138,6 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    Launcher3 \
     Trebuchet \
     DSPManager \
     libcyanogen-dsp \
