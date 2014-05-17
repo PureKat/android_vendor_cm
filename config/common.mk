@@ -90,11 +90,16 @@ endif
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
-    vendor/cm/prebuilt/common/bin/sysinit:system/bin/sysinit
+    vendor/cm/prebuilt/common/bin/sysinit:syste am/bin/sysinit
 
 # V6 Tweaks
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/xbin/v6:system/xbin/v6
+
+# Built Apps
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/app/MultiWindowSidebar_v1.1_150514.apk:system/app/MultiWindowSidebar.apk \
+    vendor/cm/prebuilt/common/app/NotificationPeekPort_20140514.apk:system/app/NotificationPeekPort.apk
 
 # userinit support
 PRODUCT_COPY_FILES += \
