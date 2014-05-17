@@ -90,7 +90,7 @@ endif
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
-    vendor/cm/prebuilt/common/bin/sysinit:syste am/bin/sysinit
+    vendor/cm/prebuilt/common/bin/sysinit:system/bin/sysinit
 
 # V6 Tweaks
 PRODUCT_COPY_FILES += \
