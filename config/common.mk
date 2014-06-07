@@ -143,7 +143,7 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    CustomLauncer3 \
+    Trebuchet \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
@@ -153,7 +153,8 @@ PRODUCT_PACKAGES += \
     LockClock \
     CMUpdater \
     CMFota \
-    CMAccount
+    CMAccount \
+    PureKatAbout
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
