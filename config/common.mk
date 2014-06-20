@@ -138,18 +138,20 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    Trebuchet \
-    DSPManager \
-    libcyanogen-dsp \
-    audio_effects.conf \
-    CMWallpapers \
-    Apollo \
-    CMFileManager \
-    LockClock \
-    CMUpdater \
-    CMFota \
-    CMAccount \
-    PureKatAbout
+     Launcher3 \
+     Trebuchet \
+     DSPManager \
+     libcyanogen-dsp \
+     audio_effects.conf \
+     CMWallpapers \
+     Apollo \
+     CMFileManager \
+     LockClock \
+     CMUpdater \
+     CMFota \
+     CMAccount \
+     CMHome \
+     PureKatAbout
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
