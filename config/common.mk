@@ -92,10 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
     vendor/cm/prebuilt/common/bin/sysinit:system/bin/sysinit
 
-# Built Apps
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/app/com.achep.acdisplay-2.apk:system/app/com.achep.acdisplay-2.apk
-
 # userinit support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/90userinit:system/etc/init.d/90userinit
