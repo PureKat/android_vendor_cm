@@ -12,6 +12,7 @@ Maintainers (CyanogenMod 11.0):
 * __Asus EeePad Transformer Pad Infinity TF700T:__ dasunsrule32
 * __Asus EeePad Transformer Pad TF701T:__ pershoot
 * __B&N NookColor (encore):__ eyeballer, fattire, keyodi, krylon360, sluo (NookieDevs)
+* __Google Android One:__ varunchitre15
 * __Google Galaxy Nexus:__ , bekit, Bumble-Bee, burnsra, KalimochoAz, something15525
 * __Google Nexus S:__ burnsra, KalimochoAz, klusark
 * __Google Nexus 4:__ rmcc
@@ -83,6 +84,7 @@ Maintainers (CyanogenMod 11.0):
 * __Samsung Galaxy S III LTE (GT-I9305):__ mcampbellsmith, codeworkx
 * __Samsung Galaxy S IV (AT&T) (SGH-I337):__ attn1
 * __Samsung Galaxy S IV (Canada) (SGH-I337M):__ DvTonder
+* __Samsung Galaxy S IV 3G (GT-I9500):__ intervigil, Alberto96
 * __Samsung Galaxy S IV LTE (GT-I9505):__ invisiblek, noobnl
 * __Samsung Galaxy S IV (Sprint) (SPH-L720):__ mkasick, noobnl
 * __Samsung Galaxy S IV (T-Mobile) (SGH-M919):__ cyanogen
@@ -141,7 +143,7 @@ Translators:
 * __French:__ DelPETER (DelPETER), humpf (humpf), Julien Stephan (julienstephan29), laddass (laddass), .... (lemachinbidule), math Matmutant (matmutant), Micks29 (Micks29), opengillou (opengillou), Alexandre Bertrand (trandbert)
 * __Galician:__ Daniel (canu7), Isaac Álvarez Veiga (Erithrym)
 * __Georgian:__ Alexander (alexander_9)
-* __German:__ Sascha Schroeder (c1ph4), Kim Le (elektroschmock78), Jacob Müller (jackmu95), Kilian von Pflugk (kilianvonpflugk), Kilowatt.W (kilowatt), Benjamin Huschle (kolsms), Danny Baumann (maniac103), Mardon (markusmenzel), maxee (maxee), michelsberg (michelsberg), Roman Ettlinger (romanett98), Stefan O. (stefanao), Thomas Reinhardt (tarreas), unpublished (unpublished), Yannik (yanniks)
+* __German:__ Sascha Schroeder (c1ph4), Kim Le (elektroschmock78), Jacob Müller (jackmu95), Kilian von Pflugk (kilianvonpflugk), Kilowatt.W (kilowatt), Benjamin Huschle (kolsms), Danny Baumann (maniac103), Mardon (markusmenzel), maxee (maxee), michelsberg (michelsberg), Roman Ettlinger (romanett98), Stefan O. (stefanao), Thomas Reinhardt (tarreas), unpublished (unpublished), Yannik (yanniks), Alex Naidis (TheCrazyLex)
 * __Greek:__ Vasilis Akritas (billak75), Michael Bestas (mikeioannina)
 * __Hebrew:__ Arthur Zamarin (arthurzam), evyatark2 (evyatark2), Mr_Guy (Mr_Guy), Oren Cohen (orenc17), sagi232123 (sagi232123)
 * __Hindi:__ c0d3ripp3r (c0d3ripp3r), Solomon Sunder (solomonsunder)
@@ -153,7 +155,7 @@ Translators:
 * __Kurdish:__ falah (Dylan2785)
 * __Latvian:__ Māris Rēdmanis (maaris)
 * __Lithuanian:__ Liudas Ališauskas (liudas.alisauskas), Edmundas Plentauskas (plentauskas1992), HardLight (polizplz), Saulius Vyšniauskas (SauliusVy)
-* __Luxembourgish:__ Michel Weimerskirch (michel_weimerskirch), soued031 (soued031)
+* __Luxembourgish:__ Michel Weimerskirch (michel_weimerskirch), Edson Souza Morais (soued031)
 * __Malay:__ tanakwagu (tanakwagu)
 * __Norwegian Bokmal:__ Vegard Fladby (Allram), Sten Eikrem (Storesteinen)
 * __Persian:__ Ali Niki (alinik), Mehdi HosseinZade (Arshen) (Arshen-2014), Yaser Rajabi (yrajabi)
@@ -161,7 +163,7 @@ Translators:
 * __Portuguese:__ João Pedro Luís (joaopluis), Sergio Borges (sergioborges99), André Pinela (sheffzor), Tercio Carvalho (tercioc)
 * __Portuguese, Brazilian:__ Carlos Henrique Brendler Cabral (carloshbcabral), Gafanhotz (Gafanhotz), Gustavo Rosa (gustavogyn), Tercio Carvalho (tercioc)
 * __Romanian:__ apolodor (apolodor), azzureux (azzureux), Marian-Mina Mihai (bboylalu), mihaitaus (mihaitaus)
-* __Russian:__ Vladislav Koldobskiy (NeverGone), Alexey Kuznetsov (eeepc1016p), Artem Leshchev (matshch), Maxim Perepelitsa (N0xFF), Yaroslav Yadrishnikov (MrYadro)
+* __Russian:__ Vladislav Koldobskiy (NeverGone), Alexey Kuznetsov (eeepc1016p), Artem Leshchev (matshch), Maxim Perepelitsa (N0xFF), Yaroslav Yadrishnikov (MrYadro), Alex Naidis (TheCrazyLex)
 * __Serbian (Cyrillic):__ Dragan Milenkovic (gagy187), Sava Mikalački (mikalackis), Драган (WD40)
 * __Sinhala:__ Rananga Suraweera (rananga)
 * __Slovak:__ Martin (mato), Bohuslav Oršula (orsulab), Peter Malík (PeterM), pyler (pyler), Snoop05 (Snoop05)
